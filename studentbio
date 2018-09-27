@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+     <head>
+        <title>Student Bio</title>
+    </head>
+    <br>
+    <h1>Jessica Kypke</h1>
+    <br>
+    <img src="https://via.placeholder.com/200x200">
+    <br>
+    <p>Hello. My name is Jessica Kypke and I am a coding bootcamp student at the Universit of Texas at Austin.</p>
+    <br>
+    <h1>Contact Info</h1>
+        <ul>
+            <li>Email:</li>
+            <li>Github:</li>
+            <li>Portfolio:</li>
+        </ul>
+    </head>
+</html>
